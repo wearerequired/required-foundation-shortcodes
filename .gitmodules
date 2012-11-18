@@ -1,0 +1,18 @@
+[submodule "required-foundation-orbit-shortcode"]
+	path = required-foundation-orbit-shortcode
+	url = git@github.com:wearerequired/required-foundation-orbit-shortcode.git
+[submodule "required-foundation-clearing-shortcode"]
+	path = required-foundation-clearing-shortcode
+	url = git@github.com:wearerequired/required-foundation-clearing-shortcode.git
+[submodule "required-foundation-column-shortcode"]
+	path = required-foundation-column-shortcode
+	url = git@github.com:wearerequired/required-foundation-column-shortcode.git
+[submodule "required-foundation-alertbox-shortcode"]
+	path = required-foundation-alertbox-shortcode
+	url = git@github.com:wearerequired/required-foundation-alertbox-shortcode.git
+[submodule "required-foundation-tooltip-shortcode"]
+	path = required-foundation-tooltip-shortcode
+	url = git@github.com:wearerequired/required-foundation-tooltip-shortcode.git
+[submodule "required-foundation-reveal-shortcode"]
+	path = required-foundation-reveal-shortcode
+	url = git@github.com:wearerequired/required-foundation-reveal-shortcode.git
